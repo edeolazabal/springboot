@@ -1,0 +1,6 @@
+com\upc\autoapi\controller\AutoController.class
+com\upc\autoapi\service\AutoService.class
+com\upc\autoapi\repository\AutoRepository.class
+com\upc\autoapi\AutoApiApplication.class
+com\upc\autoapi\model\Auto.class
+com\upc\autoapi\dto\AutoDto.class
